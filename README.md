@@ -78,3 +78,7 @@ Deploying as an Azure Function
     
 [![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fchrisbeckett%2Fazd9-autoonboarding%2Fmaster%2Ftemplate.json)
 
+
+---
+Note: if you have any issues with python version older than 3.6, let us know.
+
